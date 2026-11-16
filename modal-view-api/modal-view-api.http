@@ -1,0 +1,6 @@
+@modal_view_api_HostAddress = http://localhost:5129
+
+GET {{modal_view_api_HostAddress}}/api/persons
+Accept: application/json
+
+###
